@@ -7,3 +7,5 @@
   <li><b>CSS3:</b> FlexBox</li>
   <li><b>JavaScript</b> (ES6)</li>
 </ul>  
+
+<p>LINK: https://estefanoo.github.io/Javascript-fetchAPI-RickAndMorty/</p>
